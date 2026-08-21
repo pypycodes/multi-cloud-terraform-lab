@@ -1,9 +1,19 @@
 # Multi-Cloud Terraform Lab
 
-[![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform)](https://www.terraform.io/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud-r-the-badge&logo=amazonaws)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-007=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/)
-[![Google Cloud](https://img.shields.io/badgeloud-Cloud-4285F4?style=for-the-badge&logo=googlecloud)ogle.com/)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform)
+![AWS](https://img.shieldsCloud-FF9900?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.ioicrosoft%20Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/Googleloud-4285F4?style=for-the-badge&logo=googlecloud)
+
+[![Terraform Format](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-l
+
+[![Terraform Validate](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-validate.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/date.yml)
+
+[![Checkov](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml/badge.svg)](https://pycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml)
+
+[![Trivy](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml/badge.svg)](https://github.com/pypi-cloud-terraform-lab/actions/workflows/trivy.yml)
+
+Terraform-based AWS, Azure, and GCP learning lab with reusable Infrastructure as Code examples, security scanning, and CI validation.
 
 ## Overview
 
