@@ -8,7 +8,7 @@
 [![Terraform Format](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml)
 [![Terraform Validate](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-validate.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-validate.yml)
 [![Checkov Scan](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml)
-[![Trivy IaC Scan](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraformws/actions/workflows/trivy.yml)
+[![Trivy IaC Scan](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml)
 
 ## Overview
 
