@@ -1,0 +1,48 @@
+name: Trivy IaC Scan
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  trivy:
+    name: Trivy Terraform Scan
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      security-events: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run Trivy IaC Scan
+        uses: aquasecurity/trivy-action@0.28.0
+        with:
+          scan-type: config
+          scan-ref: .
+          format: table
+          # Initially, don't fail builds for security findings. exit-code: 1, currently set to relaxed exit-code: 0 to avoid build failures. This can be changed to exit-code: 1 in the future to enforce security checks.
+          exit-code: 0
+          severity: CRITICAL,HIGH
+
+      - name: Generate SARIF Report
+        uses: aquasecurity/trivy-action@0.28.0
+        with:
+          scan-type: config
+          scan-ref: .
+          format: sarif
+          output: trivy-results.sarif
+
+      - name: Upload SARIF Report
+        uses: github/codeql-action/upload-sarif@v3
+        if: always()
+        with:
+          sarif_file: trivy-results.sarif

@@ -1,0 +1,27 @@
+# Global ownership
+
+* @pypycodes
+
+# AWS Labs
+
+/aws/ @pypycodes
+
+# Azure Labs
+
+/azure/ @pypycodes
+
+# GCP Labs
+
+/gcp/ @pypycodes
+
+# Reusable Modules
+
+/modules/ @pypycodes
+
+# GitHub Workflows
+
+/.github/ @pypycodes
+
+# Documentation
+
+/docs/ @pypycodes
