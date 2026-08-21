@@ -1,19 +1,14 @@
 # Multi-Cloud Terraform Lab
 
-https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform
-https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws
-https://img.shields.io/badge/Microsoft%20Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure
-https://img.shields.io/badge/Google%20Cloud-Cloud-4285F4?style=for-the-badge&logo=googlecloud
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform)](https://www.terraform.io)
+[![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)/aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![Google Cloud](httpslds.io/badge/Google_Cloud-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
-https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml/badge.svg](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml)
-
-https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-validate.yml/badge.svg](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-validate.yml)
-
-https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml/badge.svg](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml)
-
-https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml/badge.svg](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml)
-
-Terraform-based AWS, Azure and GCP learning lab with reusable Infrastructure as Code examples, security scanning and CI validation.
+[![Terraform Format](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml/badge.svg)](httpsaform-lab/actions/workflows/terraform-fmt.yml)
+[![Terraform Validate](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-validate.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/work.yml)
+[![Checkov Scan](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml/badge.svg)](https://github.com/pypycodesform-lab/actions/workflows/checkov.yml)
+[![Trivy IaC Scan](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml/badge.svg)](https://github.com/d-terraform-lab/actions/workflows/trivy.yml)
 
 ## Overview
 
