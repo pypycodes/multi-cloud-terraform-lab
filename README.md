@@ -5,10 +5,10 @@
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
-[![Terraform Format](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml/badge.svg)]([httpsaform-lab/actions/workflows/terraform-fmt.yml](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml))
+[![Terraform Format](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-fmt.yml)
 [![Terraform Validate](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-validate.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/terraform-validate.yml)
 [![Checkov Scan](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/checkov.yml)
-[![Trivy IaC Scan](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraformws/trivy.yml)
+[![Trivy IaC Scan](https://github.com/pypycodes/multi-cloud-terraform-lab/actions/workflows/trivy.yml/badge.svg)](https://github.com/pypycodes/multi-cloud-terraformws/actions/workflows/trivy.yml)
 
 ## Overview
 
